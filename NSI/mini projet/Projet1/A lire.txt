@@ -1,0 +1,6 @@
+modules a installer (pip install ...):
+spotipy
+deezersdk
+deezer-python
+webbrowser
+requests

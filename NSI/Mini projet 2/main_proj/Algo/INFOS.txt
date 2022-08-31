@@ -1,0 +1,6 @@
+A installer:
+pip install:
+
+requests
+selenium
+BeautifulSoup4

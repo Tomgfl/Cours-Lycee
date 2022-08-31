@@ -1,0 +1,13 @@
+17522835704888385255239678412031123271871655748032
+
+Un<-100
+
+lire rang
+
+pour i en portée de rang
+
+afficher Un
+
+calculer Un+1
+
+fin pour

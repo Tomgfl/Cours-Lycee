@@ -1,0 +1,11 @@
+https://www.ebay.fr/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=samsung
+
+https://www.ebay.fr/sch/i.html
+&_nkw=samsung -> &_nkw={nom de l'article}
+
+&_udhi=70 -> &_udhi={prix max}
+
+&_udlo=20 -> &_udlo={prix min}
+
+(&LH_All=1) -> Toutes les annonces(enchere + acaht immediat)
+(&LH_BIN=1) -> Juste les acaht immediat

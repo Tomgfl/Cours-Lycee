@@ -1,0 +1,13 @@
+A installer:
+pip install:
+
+requests
+selenium
+BeautifulSoup4
+lxml
+Pillow
+webdriver_manager
+
+Liens:
+https://padlet.com/TitouanBr/xpvebbxfao5k2zbe
+https://trello.com/b/6VC4Jm6F/backlog
